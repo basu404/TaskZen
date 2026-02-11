@@ -1,0 +1,60 @@
+# ==============================
+# FocusFlow (frontend + backend)
+# ==============================
+
+# --- Dependencies ---
+**/node_modules/
+
+# --- Builds / output ---
+**/dist/
+**/dist-ssr/
+**/build/
+**/.next/
+**/out/
+
+# --- Logs ---
+logs/
+**/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Env files (keep examples) ---
+**/.env
+**/.env.*
+!**/.env.example
+
+# --- Runtime / tooling caches ---
+**/.cache/
+**/.parcel-cache/
+**/.vite/
+**/.turbo/
+**/.eslintcache
+
+# --- Test coverage ---
+coverage/
+**/coverage/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Misc ---
+*.local
