@@ -1,4 +1,4 @@
-# FocusFlow – Productivity Dashboard
+# TaskZen – Productivity Dashboard
 
 A full-stack productivity dashboard with secure JWT authentication and real-time task management.
 
@@ -22,10 +22,6 @@ A full-stack productivity dashboard with secure JWT authentication and real-time
 - JWT Authentication
 - bcrypt (password hashing)
 
-### Deployment (optional)
-
-- Frontend: Vercel
-- Backend: Render
 
 ## Features
 
